@@ -6,4 +6,4 @@ AI/ML/LLM Engineer with 8+ years of experience building real-world AI solutions 
 🧠 Focus: Generative AI, MLOps, LLMs, Computer Vision, Cybersecurity
 
 📫 Email: hari200202@gmail.com  
-🔗 LinkedIn: [Hari Krishna Yakkanti](http://www.linkedin.com/in/hari-krishna-yakkanti-34b31427a)
+🔗 LinkedIn: [Hari Krishna Yakkanti](https://www.linkedin.com/in/hari-krishna-yakkanti-34b31427a/)
