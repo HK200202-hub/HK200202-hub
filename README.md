@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @HK200202-hub
-- 👀 I’m interested in coding and MachineLearning stuff...
-- 🌱 I’m currently learning LLM models ...
-- 💞️ I’m looking to collaborate on LLM background people...
-- 📫 How to reach me via email hari200202@gmail.com...
+# 👋 Hi, I'm Hari Krishna Yakkanti
+
+AI/ML/LLM Engineer with 8+ years of experience building intelligent systems using deep learning, NLP, and cloud technologies.
+
+🔧 Skills: Python, PyTorch, TensorFlow, FastAPI, Hugging Face, AWS, GCP, Azure  
+🤖 Focus: Generative AI, MLOps, LLMs, Computer Vision, Cybersecurity
+
+📫 Email: hari200202@gmail.com  
+🔗 LinkedIn: [Hari Krishna](https://linkedin.com/in/HariKrishna)
 
 
 
