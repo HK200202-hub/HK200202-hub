@@ -8,5 +8,5 @@ AI/ML/LLM Engineer with 8+ years of experience building real-world AI solutions 
 📫 Email: hari200202@gmail.com  
 🔗 LinkedIn: [Hari Krishna Yakkanti](https://www.linkedin.com/in/hari-krishna-yakkanti-34b31427a/)
 
-Skills
-Python JavaScript R TensorFlow Keras PyTorch Pandas Opencv Docker Git GitHub AWS GCP Azure
+
+
