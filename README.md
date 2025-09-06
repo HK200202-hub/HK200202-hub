@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hari Krishna Yakkanti
+# 👋 Hi, I'm Hari Krishna
 
 AI/ML/LLM Engineer with 8+ years of experience building real-world AI solutions using deep learning, NLP, and cloud technologies.
 
